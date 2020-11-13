@@ -1,0 +1,45 @@
+.container {
+    width: 800px;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+.information {
+    height: 170px;
+    width: 95%;
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+.avatar {
+    width: 30%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+.info {
+    width: 70%;
+    height: 100%;
+    float: left;
+}
+
+.avatar > img {
+    height: 100%;
+}
+.ul-info {
+    list-style-type: none;
+}
+
+.ul-info li{
+    font-size: 20px;
+}
+#name {
+    font-size: 40px;
+}
+
+.eduction {
+    padding: 20px;
+    float: left;
+}
+.title-eduction h2 {
+    margin: 0;
+}
